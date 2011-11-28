@@ -1,4 +1,4 @@
 
-schematic (.sch) and board (.brd) eagleCAD files for the 2.1 eye writer kit. 
+schematic (.sch) and board (.brd) eagleCAD files for the eyeWriter v2.1 kit.
 
 http://eyewriter.org
